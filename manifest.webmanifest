@@ -1,7 +1,7 @@
 {
-  "name": "DS Intern Prep",
+  "name": "DS Prep",
   "short_name": "DS Prep",
-  "description": "Unofficial interview study guide with practice questions.",
+  "description": "Unofficial data science interview practice: questions, cards and concept notes.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
